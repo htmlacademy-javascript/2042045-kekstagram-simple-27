@@ -1,7 +1,8 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Алексей Рожнов](https://up.htmlacademy.ru/javascript/27/user/2042045).
-* Наставник: `Неизвестно`.
+* Наставник: [Руслан Бреев](https://htmlacademy.ru/profile/blckwltz)
+
 
 ---
 
