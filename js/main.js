@@ -1,8 +1,11 @@
-let randomNumber = function (one, fifty) {
-  let numberFirst = 1;
-  let numberSecond = 50;
+let randomNumber = function getRandomInt(min, max) {
+  min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
 }
+console.log(randomNumber(0, 100))
 
-  let textLength (testString, maxLength)
-  if (maxLength <= 50) {}
-  else {}
+var x = '';
+var empty = '';
+
+console.log('Слово «» занимает ' + x.length + ' значений');
